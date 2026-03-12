@@ -1,0 +1,24 @@
+{
+  "Prefabs": [
+    {
+      "RootDirectory": "Asset",
+      "Path": "Trees/Enchanted/Stage_0/",
+      "Recursive": true
+    },
+    {
+      "RootDirectory": "Asset",
+      "Path": "Trees/Enchanted/Stage_1/",
+      "Recursive": true
+    },
+    {
+      "RootDirectory": "Asset",
+      "Path": "Trees/Enchanted/Stage_2/",
+      "Recursive": true
+    },
+    {
+      "RootDirectory": "Asset",
+      "Path": "Trees/Enchanted/Stage_3/",
+      "Recursive": true
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Fruit_Enchanted.name",
+    "Description": "server.items.Plant_Fruit_Enchanted.description"
+  },
+  "Parent": "Template_Fruit",
+  "BlockType": {
+    "CustomModel": "Resources/Ingredients/Crystal_Fruit.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Resources/Ingredients/Crystal_Fruit_Texture.png",
+        "Weight": 1
+      }
+    ],
+    "VariantRotation": "UpDown",
+    "Opacity": "Transparent",
+    "Light": {
+      "Color": "#469"
+    },
+    "BlockSoundSetId": "Mushroom",
+    "BlockParticleSetId": "Dust",
+    "ParticleColor": "#326ea7"
+  },
+  "InteractionVars": {
+    "Consume_Charge": {
+      "Interactions": [
+        {
+          "Parent": "Consume_Charge_Food_T1_Inner",
+          "Effects": {
+            "Particles": [
+              {
+                "SystemId": "Food_Eat",
+                "Color": "#326ea7",
+                "TargetNodeName": "Mouth",
+                "TargetEntityPart": "Entity"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "Scale": 1.75,
+  "DropOnDeath": true,
+  "Quality": "Common"
+}

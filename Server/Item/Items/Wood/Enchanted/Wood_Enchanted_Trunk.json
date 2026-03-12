@@ -1,0 +1,50 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Wood_Enchanted_Trunk.name",
+    "Description": "server.items.Wood_Enchanted_Trunk.description"
+  },
+  "Parent": "Wood_Ash_Trunk",
+  "BlockType": {
+    "Textures": [
+      {
+        "Sides": "BlockTextures/Wood_Trunk_Crystal_Side.png",
+        "UpDown": "BlockTextures/Wood_Trunk_Crystal_Top.png",
+        "Weight": 1
+      }
+    ],
+    "Gathering": {
+      "Breaking": {
+        "ItemId": "Wood_Enchanted_Trunk",
+        "GatherType": "Woods"
+      }
+    },
+    "ParticleColor": "#5e3b56"
+  },
+  "ResourceTypes": [
+    {
+      "Id": "Wood_Trunk"
+    },
+    {
+      "Id": "Wood_All"
+    },
+    {
+      "Id": "Fuel"
+    },
+    {
+      "Id": "Charcoal"
+    }
+  ],
+  "Icon": "Icons/ItemsGenerated/Wood_Enchanted_Trunk.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}

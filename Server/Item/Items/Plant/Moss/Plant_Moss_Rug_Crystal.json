@@ -1,0 +1,28 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Moss_Rug_Crystal.name"
+  },
+  "Parent": "Plant_Moss_Rug_Blue",
+  "BlockType": {
+    "Light": {
+      "Color": "#246"
+    },
+    "Tint": [
+      "#88ccff"
+    ],
+    "ParticleColor": "#88ccff"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Moss_Rug_Crystal.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -7
+    ]
+  }
+}

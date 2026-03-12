@@ -1,0 +1,16 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Leaves_Enchanted.name"
+  },
+  "Parent": "Plant_Leaves_Azure",
+  "BlockType": {
+    "CustomModel": "Blocks/Foliage/Leaves/Ball.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Leaves/Ball_Textures/Crystal.png",
+        "Weight": 1
+      }
+    ],
+    "ParticleColor": "#1c7baf"
+  }
+}

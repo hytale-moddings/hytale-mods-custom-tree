@@ -1,0 +1,15 @@
+{
+  "Group": "HytaleModdingManual",
+  "Name": "CreateACustomTree",
+  "Version": "1.0.0",
+  "Description": "Implements the Custom Trees and Saplings tutorial with an Enchanted Tree",
+  "Authors": [
+    {
+      "Name": "HytaleModdingManual"
+    }
+  ],
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "IncludesAssetPack": true,
+  "TargetServerVersion": "2026.02.19-1a311a592"
+}

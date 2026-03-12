@@ -1,0 +1,25 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Moss_Wall_Crystal.name"
+  },
+  "Parent": "Plant_Moss_Wall_Blue",
+  "BlockType": {
+    "Tint": [
+      "#88ccff"
+    ],
+    "ParticleColor": "#88ccff"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Moss_Wall_Crystal.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      10,
+      -14
+    ]
+  }
+}
