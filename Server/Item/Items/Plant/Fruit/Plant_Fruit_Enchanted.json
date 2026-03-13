@@ -19,7 +19,15 @@
     },
     "BlockSoundSetId": "Mushroom",
     "BlockParticleSetId": "Dust",
-    "ParticleColor": "#326ea7"
+    "ParticleColor": "#326ea7",
+    "Gathering": {
+      "Harvest": {
+        "ItemId": "Plant_Fruit_Enchanted"
+      },
+      "Soft": {
+        "ItemId": "Plant_Fruit_Enchanted"
+      }
+    }
   },
   "InteractionVars": {
     "Consume_Charge": {
@@ -42,5 +50,18 @@
   },
   "Scale": 1.75,
   "DropOnDeath": true,
-  "Quality": "Common"
+  "Quality": "Common",
+  "Icon": "Icons/ItemsGenerated/Plant_Fruit_Enchanted.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
 }

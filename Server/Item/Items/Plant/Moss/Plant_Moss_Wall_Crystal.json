@@ -4,6 +4,12 @@
   },
   "Parent": "Plant_Moss_Wall_Blue",
   "BlockType": {
+    "Gathering": {
+      "Soft": {
+        "ItemId": "Plant_Moss_Wall_Crystal"
+      },
+      "UseDefaultDropWhenPlaced": true
+    },
     "Tint": [
       "#88ccff"
     ],

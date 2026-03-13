@@ -4,6 +4,12 @@
   },
   "Parent": "Plant_Moss_Rug_Blue",
   "BlockType": {
+    "Gathering": {
+      "Soft": {
+        "ItemId": "Plant_Moss_Rug_Crystal"
+      },
+      "UseDefaultDropWhenPlaced": true
+    },
     "Light": {
       "Color": "#246"
     },

@@ -12,5 +12,18 @@
       }
     ],
     "ParticleColor": "#1c7baf"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Leaves_Enchanted.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
   }
 }
