@@ -37,7 +37,7 @@ The `CrystalGlow` modifier uses `LightLevel` type with strict RGB filtering:
 
 ```
 /spawnitem Plant_Sapling_Enchanted
-/spawnitem Block_Crystal_Glow
+/spawnitem Ore_Crystal_Glow
 ```
 
 1. Place the sapling on soil

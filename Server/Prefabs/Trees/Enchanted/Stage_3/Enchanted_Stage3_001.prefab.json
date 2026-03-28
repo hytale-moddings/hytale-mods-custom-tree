@@ -818,7 +818,7 @@
       "x": 0,
       "y": 13,
       "z": 2,
-      "name": "Block_Crystal_Glow"
+      "name": "Ore_Crystal_Glow"
     },
     {
       "x": 0,
@@ -1562,7 +1562,7 @@
       "x": 2,
       "y": 9,
       "z": 1,
-      "name": "Block_Crystal_Glow"
+      "name": "Ore_Crystal_Glow"
     },
     {
       "x": 2,
@@ -2301,7 +2301,7 @@
       "x": 3,
       "y": 17,
       "z": 2,
-      "name": "Block_Crystal_Glow"
+      "name": "Ore_Crystal_Glow"
     },
     {
       "x": 3,
@@ -2703,7 +2703,7 @@
       "x": 4,
       "y": 14,
       "z": 1,
-      "name": "Block_Crystal_Glow"
+      "name": "Ore_Crystal_Glow"
     },
     {
       "x": 4,
