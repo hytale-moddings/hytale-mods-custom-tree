@@ -1,6 +1,6 @@
 # Hytale Mod: Enchanted Tree (Custom Trees and Saplings)
 
-A companion mod for the [Hytale Modding Manual](https://nevesb.github.io/hytale-modding-docs/) tutorial on **Custom Trees and Saplings**.
+A companion mod for the [Hytale Modding Manual](https://hytale-moddings.github.io/hytale-modding-docs/) tutorial on **Custom Trees and Saplings**.
 
 ## What This Mod Does
 
@@ -30,7 +30,7 @@ The `CrystalGlow` modifier uses `LightLevel` type with strict RGB filtering:
 
 1. Copy the mod folder to `%APPDATA%/Hytale/UserData/Mods/CreateACustomTree/`
 2. The folder name **must** be `CreateACustomTree`
-3. Requires the [Crystal Glow Block mod](https://github.com/nevesb/hytale-mods-custom-block) for the growth mechanic
+3. Requires the [Crystal Glow Block mod](https://github.com/hytale-moddings/hytale-mods-custom-block) for the growth mechanic
 4. Start a Hytale server with the mod enabled
 
 ## Testing In-Game
@@ -76,9 +76,9 @@ CreateACustomTree/
 
 ## Related
 
-- [Tutorial: Custom Trees and Saplings](https://nevesb.github.io/hytale-modding-docs/tutorials/intermediate/custom-trees-and-saplings/)
-- [Hytale Modding Manual](https://nevesb.github.io/hytale-modding-docs/)
-- [Crystal Glow Block Mod](https://github.com/nevesb/hytale-mods-custom-block)
+- [Tutorial: Custom Trees and Saplings](https://hytale-moddings.github.io/hytale-modding-docs/tutorials/intermediate/custom-trees-and-saplings/)
+- [Hytale Modding Manual](https://hytale-moddings.github.io/hytale-modding-docs/)
+- [Crystal Glow Block Mod](https://github.com/hytale-moddings/hytale-mods-custom-block)
 
 ## License
 
